@@ -8,7 +8,7 @@ This project is a personal portfolio website that showcases your skills, project
 <br>
 <br>
 
-<b>Features:
+<b>Features:</b>
 <br>
 Home Page: A captivating headline, professional photo, and a summary of your skills.
 <br>
